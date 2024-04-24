@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chazz, an <a href="https://www.linkedin.com/in/chazz-c-382a75122">IT Professional</a>☺</h1>
+<h1>Hi, I'm <a href="https://www.linkedin.com/in/chazz-c-382a75122">Chazz</a>☺</h1>
 
 <h2>👨‍💻 IT Projects:</h2>
 
