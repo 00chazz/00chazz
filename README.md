@@ -4,7 +4,7 @@
 
   - [Portfolio - JavaScript, HTML, CSS, Vite](https://github.com/00chazz/portfolio)
   - [Inventory Manager - Java, JavaFX](https://github.com/00chazz/Inventory-Manager)
-  - [Vacation Booker - Java, Spring Boot, Angular](https://github.com/00chazz/vacation-booked)
+  - [Vacation Booker - Java, TypeScript, Spring Boot, Angular](https://github.com/00chazz/vacation-booked)
 
 <h2>👨‍💻 IT Projects:</h2>
 
