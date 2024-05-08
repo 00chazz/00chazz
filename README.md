@@ -1,5 +1,11 @@
 <h1>Hi, I'm <a href="https://www.linkedin.com/in/chazz-c-382a75122">Chazz</a>☺</h1>
 
+<h2>🌐Web Projects:</h2>
+
+  - [Portfolio - JavaScript, HTML, CSS, Vite](https://github.com/00chazz/portfolio)
+  - [Inventory Manager - Java, JavaFX](https://github.com/00chazz/Inventory-Manager)
+  - [Vacation Booker - Java, Spring Boot, Angular](https://github.com/00chazz/vacation-booked)
+
 <h2>👨‍💻 IT Projects:</h2>
 
   - [On-premises Active Directory Deployed in Azure](https://github.com/00chazz/configure-ad)
